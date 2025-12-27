@@ -24,7 +24,7 @@ $APT_COMMAND update -q
 $APT_COMMAND install -y --no-install-recommends \
     cmake \
     gobject-introspection \
-    libgirepository1.0-dev
+    libgirepository1.0-dev \
     libglib2.0-dev \
     libgtk-3-dev \
     libgtk-layer-shell-dev \
